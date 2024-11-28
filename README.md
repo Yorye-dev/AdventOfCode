@@ -1,4 +1,4 @@
-# 🎄 Advent of Code 2024 - Solutions in Java 🎄
+# 🎄 Advent of Code 🎄
 
 Welcome to my **Advent of Code 2024** repository! 🚀  
 This repository contains my solutions to the daily programming challenges, written in **Java**. I'm participating as a junior developer to improve my skills, learn something new each day, and enjoy the exciting journey that this event offers.
