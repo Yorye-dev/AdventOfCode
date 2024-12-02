@@ -12,3 +12,6 @@ def format_input_file(input_path, output_path):
                 continue
             formatted_line = re.sub(r'\s+', '\t', line.strip())
             outfile.write(formatted_line + '\n')
+
+
+
